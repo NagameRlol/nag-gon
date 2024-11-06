@@ -7049,7 +7049,7 @@ const b = {
             }
         },
         {
-            name: "foam", //8
+            name: "foamoer", //8
             descriptionFunction() {
                 return `spray bubbly <strong>foam</strong> that <strong>sticks</strong> to mobs<br><strong class='color-s'>slows</strong> mobs and does <strong class='color-d'>damage</strong> over time<br><strong>${this.ammoPack.toFixed(0)}</strong> bubbles per ${powerUps.orb.ammo()}`
             },
